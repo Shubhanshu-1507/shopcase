@@ -5,6 +5,11 @@
 An ecommerce store called "ShopCase" has been created which is built with MERN stack, and utilizes third party API's. It aims to provide a convenient and user-friendly experience for local shopkeepers and businesses. Customers can search for products or shops based on their preferences and location, and the platform supports various sorting filters. The user interface is designed to be easy to navigate, and customers can add products to their cart for checkout. The platform will supports multiple payment options, making transactions convenient for users.
 The platform will be built using modern web technologies including React, Node.js, Express.js, and MongoDB. The backend will be hosted on AWS and will use AWS Simple Storage Bucket for storing images and Amazon Comprehend for analyzing customer feedback.
 
+## SHOPCASE
+
+> A Major Project -II Submitted in partial fulfillment of the requirements for the degree of BACHELOR OF TECHNOLOGY (Computer Science & Engineering) by Shobhit Kumar Patkar (0225CS191055), Shubhanshu Kushwaha (0225CS191060), Kamni vishwakarma ( 0225CS191031) , Rajeshwari Uikey (0225CS191045) Under the guidance of Prof. Saurabh Kapoor Department of Computer Science & Engineering BADERIA GLOBAL INSTITUTE OF ENGINEERING & MANAGEMENT, Jabalpur (M.P.) under RAJIV GANDHI PRODYOGIKIVISHWAVIDYALAYA, BHOPAL (M.P.) JUNE 2023
+
+PDF [shopcase-final-june-2023.pdf](https://github.com/Shubhanshu-1507/shopcase/files/11448295/shopcase-final-june-2023.pdf)
 ### Modules:
 
 here's an overview of the common, manager, and store modules for the Shopcase platform:
